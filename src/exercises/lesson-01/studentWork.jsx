@@ -10,7 +10,9 @@ export default function StudentWork() {
     <div>
       {/* add JSX here */}
       <h1>{name}</h1>
-      <p>Hello, my name is {name}. I am {age} years old and I'm in the Code the dream course for react.</p>
+      <p>Hello, my name is {name}. I am {age} years old and I'm in the Code the dream course for react. I also do additional
+        learning on freecodecamp and other online resources.
+      </p>
       <p>Age: {age}</p>
       <h2>Hobbies:</h2>
       <ul>
